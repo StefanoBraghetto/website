@@ -1,0 +1,17 @@
+h1 {
+  color: fuchsia;
+}
+button {
+  background-color: #bbbbf2;
+  border: 2px solid currentColor;
+  border-radius: .25em;
+  cursor: pointer;
+  font-size: inherit;
+  line-height: 1.4em;
+  padding: 0.25em 1em;
+  max-width: 20ch;
+}
+
+button:hover {
+  background-color: lavender;
+}
